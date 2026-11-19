@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "peer_id": "12D3KooWFVoogRM9zHriJ4QpGnPHvAHy5JikAMfXVfD1umtgaW1G",
+  "base_url": "https://nymd.github.io",
+  "head": "baguqeera4ppvaqqydf5pgnx6qhn2n7sdr7nlmrpt6sixbhywx2pv7gc4qpna",
+  "roots": [
+    {
+      "name": "research",
+      "cid": "bafybeiebkr7pvt7ktvyawrxthnnoiarno4mvnfmld57hh6ruwka3b7ocwa",
+      "ad": "baguqeera4ppvaqqydf5pgnx6qhn2n7sdr7nlmrpt6sixbhywx2pv7gc4qpna"
+    }
+  ]
+}
