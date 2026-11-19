@@ -1,0 +1,20 @@
+name: gitpin
+on:
+  push:
+    branches: [main]
+    paths: ['pins/**']
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: read
+concurrency:
+  group: gitpin
+  cancel-in-progress: false
+jobs:
+  pin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ipni/gitpin@v1
+        with:
+          key: ${{ secrets.GITPIN_KEY }}
