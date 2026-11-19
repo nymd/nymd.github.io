@@ -7,3 +7,6 @@
 - Update 2: added longitudinal tracking; bunch length grows 3% over the same run.
 - Update 3: vertical emittance stayed flat (<1% change), so coupling is negligible.
 - Update 4: reran with 100,000 macroparticles; growth estimate unchanged at 14%.
+- Update 5: checked chromaticity correction; sextupole settings within 1% of design.
+- Update 6: added space-charge kicks; effect below 0.5% at 3 GeV.
+- Update 7: added radiation damping check; equilibrium emittance within 3% of design.

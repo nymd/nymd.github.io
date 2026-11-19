@@ -21,3 +21,6 @@ Repeat run with bunch charge lowered to 0.8 nC showed 9% growth, consistent with
 Run the 0.8 nC case at 2.5 GeV to separate energy and charge effects.
 Also scan the RF voltage from 1.6 to 2.0 MV to test bunch-lengthening effects.
 Write up results for the December group meeting.
+Draft figures: emittance vs. turn number for 0.8 and 1.2 nC.
+Share the draft with the lattice group by 2026-12-01.
+Archive simulation inputs alongside the final figures.

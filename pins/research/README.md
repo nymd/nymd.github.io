@@ -10,4 +10,4 @@ Working notes and summaries, one folder per study. Folder names start with the s
 
 > All data and results here are placeholder content.
 
-Last updated: 2026-11-19 (rev 4).
+Last updated: 2026-11-19 (rev 7).

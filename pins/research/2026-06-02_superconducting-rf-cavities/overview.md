@@ -19,3 +19,6 @@ Compare the quality factor (Q0) of Nb3Sn-coated 1.3 GHz cavities against bare ni
 - Can a second re-coating push C-04 past 20 MV/m?
 - Is the C-01 baseline still valid after the cryostat was refurbished?
 - Should C-02 be re-tested at 2 K for comparison?
+- What is the cost of re-coating all three cavities?
+- Does the C-04 hot spot reappear after thermal cycling?
+- How much does the Nb3Sn layer thickness vary across the cell?

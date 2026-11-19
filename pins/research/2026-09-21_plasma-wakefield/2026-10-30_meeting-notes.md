@@ -10,3 +10,6 @@
 - Addendum 2: first alignment shots planned for 2026-12-03.
 - Addendum 3: safety review booked for 2026-11-26.
 - Addendum 4: second gas cell (v3) ordered as a spare.
+- Addendum 5: laser team confirms 95 TW available for December.
+- Addendum 6: data-sharing agreement with the theory group signed.
+- Addendum 7: beam-time request for Q1 2027 submitted.

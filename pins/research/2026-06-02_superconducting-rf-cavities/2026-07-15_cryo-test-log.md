@@ -9,3 +9,6 @@
 - 2026-11-19: C-04 cooled down; reached 17.6 MV/m without quench.
 - 2026-11-19 (pm): second C-04 run reproduced 17.5 MV/m; Q0 stable at 1.9e10.
 - 2026-11-19 (eve): C-04 warmed up; no change in residual resistance.
+- 2026-11-19 (late): C-04 residual resistance measured at 6 nOhm.
+- 2026-11-20 (planned): C-04 high-power pulsed test.
+- 2026-11-21 (planned): repeat C-02 at 2 K for comparison with C-04.
